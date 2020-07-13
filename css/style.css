@@ -1,0 +1,23 @@
+.top {
+	min-height: 75px;
+	background-color: #0b5394;
+	color: white;
+}
+
+.var1,
+.var4,
+.var5 {
+	background-color: #6d9eeb;
+}
+
+.var2,
+.var3,
+.var6,
+.speach {
+	background-color: #cfe2f3;
+}
+
+.button {
+	display: flex;
+	justify-content: center;
+}
